@@ -1,6 +1,6 @@
 ## Новая схема БД SQL 
 
-![](https://github.com/Iusar/SQL_3/blob/main/Final_Diagram.png)
+![](https://github.com/Iusar/SQL_5/blob/main/Final_Diagram.png)
 
 
 ## Задание 2. Команды SQL которые были использованы для создания БД по заданию 2.
